@@ -1,0 +1,14 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "Simple websocket chat app",
+  "main": "index.js",
+  "scripts": {
+    "test": "run test"
+  },
+  "author": "JOUW NAAM",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^7.4.6"
+  }
+}
